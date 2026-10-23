@@ -1,1 +1,3 @@
-# -java-quiz-master
+# Java Quiz Master
+
+My first college Java project.
